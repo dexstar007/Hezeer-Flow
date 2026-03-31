@@ -318,4 +318,4 @@ Contributions welcome! Please follow the existing code style and include tests f
 
 ---
 
-Built with ❤️ using Next.js, TypeScript, and GLM-4 AI
+Built with ❤️ using Next.js, and TypeScript.
